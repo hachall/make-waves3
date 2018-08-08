@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for MAKE Productions</title>
+	<atom:link href="http://www.makeproductions.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.makeproductions.com</link>
+	<description>London and Singapore Media Production</description>
+	<lastBuildDate>Mon, 23 Nov 2015 08:02:31 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Comment on 6 Nominations at the 2015 Asian Television Awards by Peter Olszewski Mediaweek Aust</title>
+		<link>http://www.makeproductions.com/6-nominations-at-the-2015-asian-television-awards/#comment-2</link>
+		<dc:creator><![CDATA[Peter Olszewski Mediaweek Aust]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2015 08:02:31 +0000</pubDate>
+		<guid isPermaLink="false">http://www.makeproductions.com/?p=3710#comment-2</guid>
+		<description><![CDATA[Congrats!!]]></description>
+		<content:encoded><![CDATA[<p>Congrats!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
